@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "ae9a",
+      "name": "John Doe",
+      "phone": "555-55-55"
+    },
+    {
+      "id": "07e0",
+      "name": "Jane",
+      "phone": "555-55-55"
+    },
+    {
+      "id": "2142",
+      "name": "Pedro",
+      "phone": "555-33-33"
+    },
+    {
+      "id": "1210",
+      "name": "Anna Smith",
+      "phone": "555-11-22"
+    }
+  ]
+}
